@@ -87,3 +87,7 @@ r1.sn-hgn7yn76.googlevideo.com
 r1.sn-hgn7rne7.googlevideo.com
 r1.sn-hgn7rn7y.googlevideo.com
 youtube-ui.l.google.com
+time-ios.g.aaplimg.com
+gcp.api.sc-gw.com
+i.ytimg.com
+youtube-ui.l.google.com
